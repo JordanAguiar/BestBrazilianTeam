@@ -5,7 +5,7 @@ import pandas as pd
 # * Carregamento dos Dados (últimas 22 temporadas - Brasileirão)
 
 # %%
-df = pd.read_csv(r"C:\Users\Jorda\OneDrive\Documentos\Projetos de portfolio\BestBrazilianTeam\data\brasileirao.csv")
+df = pd.read_csv(r"BestBrazilianTeam\data\brasileirao.csv")
 
 df
 
