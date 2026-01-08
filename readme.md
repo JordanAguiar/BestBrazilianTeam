@@ -82,7 +82,7 @@ O dataset contém **470 registros** (temporadas completas de 2003 a 2025) e as s
 ## ▶️ Como Executar o Projeto
 1. Clone o repositório:
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/JordanAguiar/BestBrazilianTeam.git
 ```
 2. Instale as dependências:
 
